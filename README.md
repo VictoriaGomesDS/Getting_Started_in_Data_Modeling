@@ -5,4 +5,9 @@ A little bit about my progress during my resumption in the world of data modelin
 
 In this project I worked on new knowledge about the conceptual and logical modeling of a simple database for a small bookstore. 
 From the survey and understanding of the library owners' needs, after a brief interview, we will use brModelo 3.2 to abstract the library's mini-world, and in a next project we will create the physical model of it. 
+
+In the document Interview.docx we can see what we were able to capture during the interview with the store owners.
+
+In the document Conceitual_Loja_de_Livros_I.brM3 we have the Conceptual Model of the mini-world abstraction of the processes for the store database. The same was done in brModelo 3.2.
+
 This is my first project here! I hope I can contribute and I accept constructive criticism :)
