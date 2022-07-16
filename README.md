@@ -10,4 +10,8 @@ In the document Interview.docx we can see what we were able to capture during th
 
 In the document Conceitual_Loja_de_Livros_I.brM3 we have the Conceptual Model of the mini-world abstraction of the processes for the store database. The same was done in brModelo 3.2.
 
+In this project I learned about conceptual modeling from an "interview" with business owners and so we identified strong entities, weak entities and associative entities, relationship types, cardinality, attributes and primary and foreign keys.
+
+In the project, I did the database modeling for a book e-commerce store together with professor Daniel P. Siqueira in the course "Database Modeling: Entities, Relationships and Attributes" on Alura!
+
 This is my first project here! I hope I can contribute and I accept constructive criticism :)
