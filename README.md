@@ -11,6 +11,8 @@ In the document Conceitual_Loja_de_Livros_I.brM3 and Conceptual_photo_ecommerce_
 
 In the document Logico_Loja_de_Livros_I.brM3 and Logical_photo_ecommerce_bookstore we have the Logical Model of abstraction of the miniworld of processes for the store's database. The same was also done in brModelo 3.2.
 
+In the document Modelagem_Fisica.architect and Fisical_photo_ecommerce_bookstore, we have the Physical Model of the mini-world process abstraction for the store database after conceptual and logical pre-modeling, always applying the necessary adaptation to maintain normality and cohesive functionality. The same was done in SQL Power Architect Setup Windows 1.0.9
+
 In this project, so far, I have learned about conceptual modeling from an "interview" with entrepreneurs and thus we have identified strong entities, weak entities and associative entities, relationship types, cardinality, attributes and primary and foreign keys. And then we move on to the logic model.
 
 In the project, I did the database modeling for an e-commerce book store together with professor Daniel P. Siqueira in the courses "Database Modeling: Entities, Relationships and Attributes" and "Relational Database Modeling : Logical and Physical Modeling" at Alura!
